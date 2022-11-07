@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class MailRuTest {
+public class KinoPoiskTest {
     private static WebDriver driver;
     private static final String PATH = "src/drivers/chromedriver.exe";
 
